@@ -1,0 +1,14 @@
+body {
+  background-color: black !important;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #ffffff !important;
+  font-size: 60px;
+  font-family: "Julius Sans One";
+  letter-spacing: 7px;
+}
